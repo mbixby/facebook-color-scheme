@@ -16,7 +16,22 @@ Inspired by 2012 Facebook app for iOS.
 
 ## Preview
 
-[]()
+Coffeescript
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/coffee.png)  
+
+Ruby
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/ruby.png)  
+
+Markdown
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/md.png)  
+Javascript
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/javascript.png)  
+
+Haskell
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/haskell.png)  
+
+Sass
+![](https://raw.github.com/mbixby/facebook-color-scheme/master/preview/sass.png)  
 
 ## License
 
