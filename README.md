@@ -1,6 +1,8 @@
 # Facebook Color Scheme
 
-Originally based on Facebook's 2012 iOS app, this theme features Facebook's typical washed up blues and pastel colors. Some colors were later highlighted, resulting in a more vibrant and technical look. The result was very unlike Facebook and generally inconsistent with itself even though the palette has only about four distinct colors. Consider this beta.
+Originally based on Facebook's 2012 iOS app, this theme features Facebook's typical washed up blues and pastels. Some colors were later highlighted, resulting in a more vibrant and technical look.
+
+## Remarks
 
 * Use with [Blackbird](https://github.com/mbixby/blackbird) for Sublime. Blackbird also includes packages for Markdown and Coffeescript with better support for this color scheme
 
