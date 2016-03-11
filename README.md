@@ -37,4 +37,10 @@ Sass
 
 ## License
 
-TBA
+Facebook Color Scheme is licensed under the [Creative Commons Attribution-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/). You are free to share and remix the scheme, however please abide by the license terms when doing so. 
+
+The following details apply to the Creative Commons license "author specified" components:
+
+* Attribution example: Based on mbixby/facebook-color-scheme (https://github.com/mbixby/bluebird)
+
+* Naming guidelines: If you create and distribute a derivative theme, please give your theme a name that indicates that the theme is a derivation, for example "tom's-facebook-color-scheme" or "facebook-color-scheme-gamma" (please make a pull request to this repo instead of forking a new version)
